@@ -1,0 +1,28 @@
+1:
+      The Prototyping Model is one of the most popularly used Software Development Life Cycle Models (SDLC models). This model is used when the customers do not know the exact project requirements beforehand.
+	Since a working model of the system is displayed, the users get a better understanding of the system being developed. Reduces time and cost as the defects can be detected much earlier. Quicker user feedback is available leading to better solutions.
+
+
+
+2:
+      Evolutionary model is a combination of Iterative and Incremental model of software development life cycle. Delivering your system in a big bang release, delivering it in incremental process over time is the action done in this model. Some initial requirements and architecture envisioning need to be done.
+        Evolutionary process model (e.g. Prototyping model ) resembles Iterative enhancement model, but this differs from iterative enhancement model in the sense that this does not release product at the end of each cycle. This model is useful for projects using new technology that is not well understood.
+      The system grows incrementally over time, iteration by iteration, and thus this approach is also known as iterative and incremental development(see Figure). Because feedback and adaptation evolve the specifications and design, it is also known as iterative and evolutionary development.
+
+
+3:
+       The spiral model is a systems development lifecycle (SDLC) method used for risk management that combines the iterative development process model with elements of the Waterfall model. The spiral model is used by software engineers and is favored for large, expensive and complicated projects.
+        In which phase of spiral model software is produced?
+Image result for software developed by process of flow path of spiral model. 
+           Spiral model produced in phase of Construct or Build. The Construct phase refers to production of the actual software product at every spiral. In the baseline spiral, when the product is just thought of and the design is being developed a POC (Proof of Concept) is developed in this phase to get customer feedback.
+
+
+4:
+        Agile scrum methodology is a project management system that relies on incremental development. Each iteration consists of two- to four-week sprints, where the goal of each sprint is to build the most important features first and come out with a potentially deliverable product.
+      The major difference between Agile vs Scrum is that while Agile is a philosophy of managing projects based on a core set of principles or values, Scrum is a methodology based on those principles. Agile and Scrum share similar methods like collaborative iterations, and for a good reason: Scrum is an Agile approach.
+
+
+5:
+       The CFD is a time-based plot of the cards as they move from the left to the right on a Kanban board. As cards start from the Ready queue or column, the CFD plots the number of cards at each stage of the Kanban workflow or value stream.  
+       CFD charts are a powerful tool that Kanban teams can use to measure flow and analyze trends about a team's performance. Think of a CFD chart as a storyteller. It paints a picture of how workflows through your Kanban system within a period.
+      
